@@ -9,7 +9,7 @@ Recently Complete my **Master of Computer Applications (MCA)** and
 focused on building production-oriented applications, backend systems,
 and scalable software architecture.
 ---
-
+---
 ## 🔗 Connect With Me
 
 🌐 Portfolio: https://ankit-resume-rho.vercel.app/
@@ -21,7 +21,7 @@ and scalable software architecture.
 📧 Email: ankitnehra.cse@gmail.com
 
 ---
-
+---
 
 # 🚀 Featured Projects
 
