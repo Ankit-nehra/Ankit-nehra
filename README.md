@@ -375,7 +375,7 @@ I focus on building software that is:
 
 ## LinkedIn
 
-https://linkedin.com/in/ankit
+https://www.linkedin.com/in/ankit-nehra-953004285/
 
 
 ## Portfolio
