@@ -27,105 +27,106 @@ and scalable software architecture.
 </p>
 
 ---
-
-
 # 🚀 Featured Projects
-
-
-## 💬 Real-Time Chat Application
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ankit-nehra/realtime-chat-app)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://microservice-based-realtime-chat-ap.vercel.app/)
-
-A scalable real-time communication platform built using
-**Microservices Architecture, MERN Stack, Socket.IO, WebRTC,
-Redis, and Docker.**
-
-Designed to demonstrate real-world backend engineering concepts
-including distributed services, real-time communication, and
-scalable system design.
-
-
-### Engineering Highlights
-
-- Designed a microservices-based backend architecture
-- Implemented API Gateway pattern for service communication
-- Built independent Authentication, User, Chat, and Realtime services
-- Developed JWT-based authentication and authorization system
-- Implemented one-to-one real-time messaging
-- Added online/offline presence tracking
-- Implemented typing indicators and message lifecycle tracking
-- Built message delivery and read receipt system
-- Integrated WebRTC for peer-to-peer audio/video communication
-- Implemented Socket.IO based signaling architecture
-- Added Redis-based realtime synchronization
-- Containerized services using Docker
-
-
-### Tech Stack
-Frontend:
-React.js | Zustand | Socket.IO Client | WebRTC
-
-Backend:
-Node.js | Express.js | Socket.IO | REST APIs
-
-Database:
-MongoDB | Redis | Upstash Redis
-
-Infrastructure:
-Docker | Microservices Architecture
-
 
 ---
 
-## 🎓 School ERP Management System
+## 💬 Real-Time Chat Application
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ankit-nehra/erp-frontend)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://erp-frontend-eight-iota.vercel.app/)
+<p align="center">
+  <a href="https://github.com/Ankit-nehra/realtime-chat-app">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://microservice-based-realtime-chat-ap.vercel.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
+### 📌 Overview
 
-A complete educational management platform designed to digitize
-school operations and improve communication between students,
-teachers, administrators, and principals.
+A scalable real-time communication platform built using **Microservices Architecture**, **MERN Stack**, **Socket.IO**, **WebRTC**, **Redis**, and **Docker**.
 
-The system provides role-based dashboards and centralized
-management of academic activities.
+Designed to demonstrate real-world backend engineering concepts including **distributed systems, real-time communication, service separation, and scalable architecture design**.
 
+### ⚙️ Engineering Highlights
 
-### Engineering Highlights
+- 🏗️ Designed a **microservices-based backend architecture**
+- 🌐 Implemented **API Gateway pattern** for service communication
+- 🔐 Built independent **Authentication, User, Chat, and Realtime services**
+- 🔑 Developed **JWT-based authentication and authorization**
+- 💬 Implemented **one-to-one real-time messaging**
+- 🟢 Added online/offline user presence tracking
+- ⌨️ Implemented typing indicators and message lifecycle tracking
+- ✅ Built message delivery and read receipt system
+- 📹 Integrated **WebRTC** for peer-to-peer audio/video communication
+- 🔄 Developed Socket.IO-based signaling architecture
+- ⚡ Added Redis-powered real-time synchronization
+- 🐳 Containerized services using Docker
 
-- Designed role-based access control (RBAC) system
-- Built separate dashboards for:
-  - Student
-  - Teacher
-  - Admin
-  - Principal
+### 🛠️ Tech Stack
 
-- Developed attendance management system
-- Implemented examination and marks management
-- Built student admission workflow
-- Added timetable management
-- Implemented syllabus tracking system
-- Developed notice management module
-- Created dynamic school website content management
-- Integrated PostgreSQL for ERP operations
-- Integrated MongoDB for website content
-- Added Cloudinary based media storage
-- Implemented JWT authentication system
+| Category | Technologies |
+| --- | --- |
+| Frontend | React.js • Zustand • Socket.IO Client • WebRTC |
+| Backend | Node.js • Express.js • Socket.IO • REST APIs |
+| Database | MongoDB • Redis • Upstash Redis |
+| Infrastructure | Docker • Microservices Architecture |
 
+---
 
-### Tech Stack
-Frontend:
-React.js | Tailwind CSS | React Router
+# 🎓 School ERP Management System
 
-Backend:
-Node.js | Express.js | REST APIs
+<p align="center">
+  <a href="https://github.com/Ankit-nehra/erp-frontend">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://erp-frontend-eight-iota.vercel.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
-Database:
-PostgreSQL | Supabase | MongoDB
+### 📌 Overview
 
-Authentication & Storage:
-JWT | Cloudinary
+A complete educational management platform designed to digitize school operations and improve collaboration between **students, teachers, administrators, and principals**.
 
+The system provides **role-based dashboards** and centralized management of academic activities.
+
+### ⚙️ Engineering Highlights
+
+- 🔐 Designed **Role-Based Access Control (RBAC)** system
+- 📊 Built separate dashboards for:
+  - 👨‍🎓 Students
+  - 👨‍🏫 Teachers
+  - 🛡️ Administrators
+  - 🏫 Principals
+- 📝 Developed attendance management system
+- 📚 Implemented examination and marks management
+- 🎓 Built student admission workflow
+- 🗓️ Added timetable management system
+- 📖 Implemented syllabus tracking module
+- 📢 Developed notice management system
+- 🌐 Created dynamic school website content management
+- 🗄️ Integrated PostgreSQL for ERP operations
+- 🍃 Integrated MongoDB for website content
+- ☁️ Added Cloudinary-based media storage
+- 🔑 Implemented JWT authentication system
+
+### 🛠️ Tech Stack
+
+| Category | Technologies |
+| --- | --- |
+| Frontend | React.js • Tailwind CSS • React Router |
+| Backend | Node.js • Express.js • REST APIs |
+| Database | PostgreSQL • Supabase • MongoDB |
+| Authentication & Storage | JWT • Cloudinary |
+
+---
+
+<div align="center">
+
+⭐ **More projects coming soon...**
+
+</div>
 
 ---
 
