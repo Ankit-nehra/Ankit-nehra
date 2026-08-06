@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Ankit Nehra 👋
 
-<!--
-**Ankit-nehra/Ankit-nehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer | MERN Stack Developer
 
-Here are some ideas to get you started:
+I build scalable web applications using modern frontend and backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 💬 Real-Time Chat Application
+Microservices-based real-time communication platform using:
+- React.js
+- Node.js
+- Socket.IO
+- WebRTC
+- Redis
+- Docker
+
+🔗 Live Demo | 🔗 GitHub
+
+
+### 🎓 School ERP Management System
+Full-stack ERP platform with role-based dashboards:
+- Student
+- Teacher
+- Admin
+- Principal
+
+Built using:
+- React.js
+- Node.js
+- PostgreSQL
+- MongoDB
+- JWT
+
+🔗 Live Demo | 🔗 GitHub
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+React.js | JavaScript | HTML | CSS | Tailwind CSS
+
+### Backend
+Node.js | Express.js | REST APIs | Socket.IO
+
+### Database
+MongoDB | PostgreSQL | Redis
+
+### Tools
+Git | GitHub | Docker | Postman
+
+---
+
+## 📌 Other Projects
+
+I have built 30+ frontend and web development projects including:
+- Responsive websites
+- JavaScript applications
+- UI clones
+- Full-stack applications
+
+---
+
+## 📫 Connect With Me
+
+GitHub: your-link  
+LinkedIn: your-link  
+Portfolio: your-link
