@@ -193,30 +193,37 @@ The system provides **role-based dashboards** and centralized management of acad
 ---
 # 💼 Experience
 
+---
 
-## Full Stack Developer Intern
+## 👨‍💻 Full Stack Developer Intern
 
-### Coding Blocks × Geeta University
+### Coding Blocks × Geeta University  
+📅 **June 2025 - August 2025**
 
-**June 2025 - August 2025**
+Worked on full-stack web application development using the **MERN Stack**, following modern software engineering practices, clean architecture principles, and collaborative development workflows.
 
+### 🚀 Responsibilities & Contributions
 
-Worked on full-stack application development using MERN stack
-following modern software development practices.
+- ⚛️ Developed responsive and user-friendly **React.js interfaces**
+- 🧩 Built reusable, scalable, and maintainable frontend components
+- 🔗 Designed and integrated **RESTful APIs** using Node.js and Express.js
+- ⚙️ Implemented backend business logic and **CRUD operations**
+- 🗄️ Worked on database modeling, data handling, and application workflows
+- 🔐 Implemented authentication and authorization workflows
+- 🧪 Tested and debugged APIs using **Postman**
+- 🐛 Identified and resolved application issues to improve reliability
+- 🌱 Followed **Git-based workflows** for version control and team collaboration
 
+### 🛠️ Tech Stack
 
-### Responsibilities
-
-- Developed responsive React-based user interfaces
-- Built reusable and maintainable frontend components
-- Designed and integrated RESTful APIs using Node.js and Express.js
-- Implemented backend business logic and CRUD operations
-- Worked with database modeling and data management
-- Implemented authentication workflows
-- Tested APIs using Postman
-- Debugged application issues and improved reliability
-- Used Git-based workflows for version control and collaboration
-
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
