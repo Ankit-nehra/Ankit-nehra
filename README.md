@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ankit Nehra
+# Welcome, I'm Ankit Nehra
 
 ## Full Stack Developer | MERN Stack Developer
 
