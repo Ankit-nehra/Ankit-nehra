@@ -26,6 +26,8 @@ and scalable software architecture.
 
 
 ## 💬 Real-Time Chat Application
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ankit-nehra/realtime-chat-app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://microservice-based-realtime-chat-ap.vercel.app/)
 
 A scalable real-time communication platform built using
 **Microservices Architecture, MERN Stack, Socket.IO, WebRTC,
@@ -69,6 +71,10 @@ Docker | Microservices Architecture
 ---
 
 ## 🎓 School ERP Management System
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ankit-nehra/erp-frontend)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://erp-frontend-eight-iota.vercel.app/)
+
 
 A complete educational management platform designed to digitize
 school operations and improve communication between students,
