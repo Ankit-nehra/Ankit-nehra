@@ -5,7 +5,7 @@
 I build scalable full-stack web applications with modern frontend,
 backend, database, and real-time communication technologies.
 
-Currently pursuing **Master of Computer Applications (MCA)** and
+Currently Complete my **Master of Computer Applications (MCA)** and
 focused on building production-oriented applications, backend systems,
 and scalable software architecture.
 
