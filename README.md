@@ -4,17 +4,16 @@
 
 I build scalable full-stack web applications with modern frontend,
 backend, database, and real-time communication technologies.
-
 Recently Complete my **Master of Computer Applications (MCA)** and
 focused on building production-oriented applications, backend systems,
 and scalable software architecture.
----
+
 ---
 ## 🔗 Connect With Me
 
 🌐 Portfolio: https://ankit-resume-rho.vercel.app/
 
-💼 LinkedIn: https://linkedin.com/in/ankit
+💼 LinkedIn: https://www.linkedin.com/in/ankit-nehra-953004285/
 
 💻 GitHub: https://github.com/Ankit-nehra
 
