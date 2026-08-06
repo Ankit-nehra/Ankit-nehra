@@ -8,8 +8,20 @@ backend, database, and real-time communication technologies.
 Recently Complete my **Master of Computer Applications (MCA)** and
 focused on building production-oriented applications, backend systems,
 and scalable software architecture.
+---
+
+## 🔗 Connect With Me
+
+🌐 Portfolio: https://ankit-resume-rho.vercel.app/
+
+💼 LinkedIn: https://linkedin.com/in/ankit
+
+💻 GitHub: https://github.com/Ankit-nehra
+
+📧 Email: ankitnehra.cse@gmail.com
 
 ---
+
 
 # 🚀 Featured Projects
 
