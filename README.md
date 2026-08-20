@@ -432,10 +432,9 @@ https://www.linkedin.com/in/ankit-nehra-953004285/
 https://ankit-resume-rho.vercel.app/
 
 
-## Email
+## 📧 Email
 
 ankitnehra.cse@gmail.com
-ankitnehra7000@gmail.com
 ---
 
 # ⭐ Thanks for Visiting My Profile
