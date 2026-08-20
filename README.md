@@ -1,12 +1,27 @@
-# Welcome, I'm Ankit Nehra
+# 👋 Welcome, I'm Ankit Nehra
 
 ## Full Stack Developer | MERN | Backend | Microservices | Real-Time Applications
 
-I build scalable full-stack web applications with modern frontend,
-backend, database, and real-time communication technologies.
-Recently Complete my **Master of Computer Applications (MCA)** and
-focused on building production-oriented applications, backend systems,
-and scalable software architecture.
+I’m a **Full Stack Developer** focused on building **scalable, maintainable, and production-oriented web applications**.
+
+I work across the stack with **React.js, Node.js, Express.js, MongoDB, PostgreSQL, Redis, REST APIs, Socket.IO, WebRTC, and Docker**.
+
+My primary interests include **Backend Engineering, Microservices Architecture, Real-Time Systems, Database Design, and Scalable Application Development**.
+
+- 🎓 **MCA Graduate** | Geeta University
+- 💼 **Full Stack Developer Intern** | Coding Blocks × Geeta University
+- 🏗️ Interested in **Backend Engineering, System Architecture & Modern UI Development**
+- ⚡ Experienced in **Real-Time Applications & Microservices**
+- 🗄️ Interested in **Database Design & Optimization**
+- 🚀 Focused on building **clean, modular, and scalable software**
+
+### 🔍 Core Areas
+
+**Full Stack Development** • **Frontend Development** • **Backend Engineering** • **Modern UI Development** • **MERN Stack** • **REST APIs** • **Microservices** • **Real-Time Systems** • **Database Design** • **System Architecture**
+
+
+---
+
 
 ---
 ## 🔗 Connect With Me
