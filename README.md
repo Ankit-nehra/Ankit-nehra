@@ -243,6 +243,23 @@ Worked on full-stack web application development using the **MERN Stack**, follo
 </p>
 
 ---
+# 🎓 Education
+
+## Master of Computer Applications (MCA)
+
+**Geeta University** — Panipat, Haryana  
+**2024 – 2026** | **CGPA: 8.78**
+
+---
+
+## Bachelor of Computer Applications (BCA)
+
+**Arya P.G. College** — Panipat, Haryana  
+**2021 – 2024** | **CGPA: 7.39**
+
+---
+
+---
 
 # 📚 Computer Science Foundation
 
