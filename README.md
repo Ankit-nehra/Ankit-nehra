@@ -422,12 +422,12 @@ I focus on building software that is:
 # 🤝 Let's Connect
 
 
-## LinkedIn
+## 💼 LinkedIn
 
 https://www.linkedin.com/in/ankit-nehra-953004285/
 
 
-## Portfolio
+## 🌐 Portfolio
 
 https://ankit-resume-rho.vercel.app/
 
