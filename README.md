@@ -417,18 +417,6 @@ I focus on building software that is:
 - Performance optimized
 - Easy to understand and extend
 
-
----
-
-# 📊 GitHub Activity
-
-
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankit-nehra&show_icons=true&theme=tokyonight)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-nehra&layout=compact&theme=tokyonight)
-
-
 ---
 
 # 🤝 Let's Connect
@@ -447,8 +435,7 @@ https://ankit-resume-rho.vercel.app/
 ## Email
 
 ankitnehra.cse@gmail.com
-
-
+ankitnehra7000@gmail.com
 ---
 
 # ⭐ Thanks for Visiting My Profile
