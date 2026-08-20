@@ -1,6 +1,6 @@
 # Welcome, I'm Ankit Nehra
 
-## Full Stack Developer | MERN Stack Developer
+## Full Stack Developer | MERN | Backend | Microservices | Real-Time Applications
 
 I build scalable full-stack web applications with modern frontend,
 backend, database, and real-time communication technologies.
