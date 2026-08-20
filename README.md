@@ -434,7 +434,8 @@ https://ankit-resume-rho.vercel.app/
 
 ## 📧 Email
 
-ankitnehra.cse@gmail.com
+[ankitnehra.cse@gmail.com](mailto:ankitnehra.cse@gmail.com)
+
 ---
 
 # ⭐ Thanks for Visiting My Profile
